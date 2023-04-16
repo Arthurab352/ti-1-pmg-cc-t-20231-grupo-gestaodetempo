@@ -106,8 +106,10 @@ Nesta parte vamos abordar a especificação do projeto. Para isso, utilizaremos 
 ## Personas, Empatia e Proposta de Valor
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+![image](https://user-images.githubusercontent.com/91708847/232348832-a9968412-c815-4b23-b7bc-de629483ee66.png)
+![WhatsApp Image 2023-04-16 at 20 16 18](https://user-images.githubusercontent.com/91708847/232348856-77decf46-b40c-483a-8e24-7d28f0788c58.jpeg)
+![WhatsApp Image 2023-04-16 at 20 16 01](https://user-images.githubusercontent.com/91708847/232348873-6462f619-9e1b-41ae-bf03-764bca792e39.jpeg)
 
-![image](https://user-images.githubusercontent.com/91708847/232348523-ae0a6716-3434-4e05-9099-70b919ed41cf.png)
 
 > Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
 > mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 

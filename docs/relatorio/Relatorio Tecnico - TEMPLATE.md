@@ -1,21 +1,19 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Sábio Tempmo
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciencia da Computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> -Arthur Leite Setragni
+ - Arthur Alves
+ - César Rodrigues Santos
+ - Gustavo Sales
 
 # Estrutura do Documento
 
@@ -55,20 +53,12 @@
 # Introdução
 
 ## Problema
+O problema que um aplicativo de organização de tempo pode ajudar a resolver é o desafio de gerenciar com eficiência as tarefas diárias, pessoais e profissionais em um mundo cada vez mais ocupado e acelerado. Muitas pessoas têm uma agenda lotada, com prazos, reuniões, compromissos, tarefas domésticas e outras atividades, o que pode levar a uma sensação constante de sobrecarga e estresse.
+Além disso, a falta de organização pode levar a atrasos, esquecimentos e erros que podem ter consequências negativas, tanto pessoal quanto profissionalmente. Por exemplo, a perda de prazos importantes pode resultar em penalidades financeiras ou perda de oportunidades de negócios, enquanto esquecer compromissos pode prejudicar relacionamentos pessoais.
+Um aplicativo de organização de tempo pode ajudar as pessoas a gerenciar melhor seus compromissos e tarefas, fornecendo uma maneira fácil de registrar e acompanhar suas atividades diárias. Ele pode incluir recursos como lembretes automatizados, listas de tarefas, calendários integrados e ferramentas de planejamento que ajudam a priorizar e programar atividades com eficiência.
+Ao utilizar um aplicativo de organização de tempo, as pessoas podem se sentir mais no controle de suas vidas, reduzindo o estresse e aumentando a produtividade. Além disso, pode ajudar a melhorar a qualidade do trabalho e da vida pessoal, permitindo mais tempo para atividades significativas e relaxamento.
+Quanto ao contexto, a aplicação pode ser utilizada por indivíduos, equipes e empresas que buscam aumentar a produtividade e melhorar a gestão do tempo, entrentanto estamos focando no jovem que tem entre 16 e 25 anos.
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
@@ -76,14 +66,10 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral do nosso trabalho é desenvolver um software de gestão de tempo e produtividade que ajude os usuários a monitorar e gerenciar suas tarefas, projetos e metas de forma eficiente e organizada. Nossa meta é criar uma plataforma fácil de usar, intuitiva e acessível, para de fato resolver o problema de falta de tempo de quem utilizar o software. Para atingir esse objetivo principal temos dois objetivos especificos, são eles:
+  -Desenvolver uma interface amigavél e intuitiva;
+  -Implementar uma funcionalidade de planejamento de tempo eficiente.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
@@ -91,32 +77,22 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
+Trabalhar com uma aplicação de gestão de tempo e produtividade é importante, porque muita gente acaba sofrendo pra organizar as suas tarefas e projetos de uma maneira produtiva. Além disso, a gente sabe que gerenciar o tempo é crucial pra ter sucesso tanto na vida pessoal quanto profissional, e uma aplicação que ajuda nisso pode mudar a sua vida pra melhor.
+Os objetivos que a gente escolheu pra essa aplicação são pra garantir que ela seja fácil de usar e funcione de verdade. A interface tem que ser amigável e intuitiva, do contrario ninguém vai querer usar a plataforma.
+Outro recurso bem importante é a funcionalidade de planejamento de tempo. Com ela, os usuários vão poder gerenciar as tarefas e projetos de forma eficiente, priorizando o que é mais importante e evitando ficar perder o controle do dia a dia.
+Enfim, a nossa ideia é criar uma aplicação de gestão de tempo e produtividade que seja fácil de usar, intuitiva e eficiente, pra ajudar o usuario a ser mais produtivo e ter mais qualidade de vida.
+
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O principal perfil dos nossos usuarios são estudantes e acadêmicos que precisam gerenciar seu tempo de estudo e projetos acadêmicos - Esses usuários são estudantes de diferentes níveis, desde o ensino médio até a pós-graduação, que precisam gerenciar seu tempo de estudo e projetos acadêmicos, podem ou não ter um emprego em conjunto com os estudos e, em sua grande maioria, ainda moram com os responsaveis. Eles também têm conhecimentos prévios em relação a tecnologia e estão familiarizados com o uso de aplicativos de produtividade.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
+Nosso mapa de steakHolders:
+Fundamentais: Usuarios;
+Importantes: Instituições de ensino, empresas onde os usuarios trabalham;
+Influenciadores: Amigos, Professor/Chefe, Familia.
 > 
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)

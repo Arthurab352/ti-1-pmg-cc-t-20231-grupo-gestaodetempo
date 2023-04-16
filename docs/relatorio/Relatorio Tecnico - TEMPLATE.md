@@ -9,7 +9,7 @@ Ciencia da Computação
 
 ## Participantes
 
-> Os membros do grupo são:
+> Os membros do grupo são
 
  -Arthur Leite Setragni
  - Arthur Alves

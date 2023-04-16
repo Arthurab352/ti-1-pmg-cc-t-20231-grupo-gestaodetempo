@@ -101,11 +101,7 @@ Influenciadores: Amigos, Professor/Chefe, Familia.
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nesta parte vamos abordar a especificação do projeto. Para isso, utilizaremos uma combinação de técnicas e ferramentas, incluindo entrevistas com usuários, criação de personas e prototipagem. Ao final dessa parte, teremos uma especificação clara e detalhada do projeto, que servirá como base para o desenvolvimento da aplicação
 
 ## Personas, Empatia e Proposta de Valor
 

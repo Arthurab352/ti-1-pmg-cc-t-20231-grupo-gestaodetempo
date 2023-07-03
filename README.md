@@ -16,4 +16,6 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Nosso arquivo funciona no computador de alguns integrantes mas não funciona em outros, caso o calendario não renderize favor analizar pelo replit:
+https://replit.com/@ARTHURLEITE4/Sabiotempo#script.js
+https://sabiotempo.arthurleite4.repl.co/

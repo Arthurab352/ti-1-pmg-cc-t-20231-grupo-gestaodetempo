@@ -176,9 +176,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Divisão de Papéis
 
 No âmbito do projeto, todos os membros colaboraram de forma conjunta, participando de reuniões semanais. Durante essas reuniões, Arthur Leite assumiu a responsabilidade pela elaboração inicial da página principal, enquanto Cezar, Gustavo e Arthur se encarregaram da implementação das funcionalidades.
+
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -208,59 +209,15 @@ No âmbito do projeto, todos os membros colaboraram de forma conjunta, participa
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Durante o desenvolvimento do projeto, ocorreram poucas iterações no geral, uma vez que a maior parte do trabalho foi realizada de forma individual em projetos separados. Na etapa final da aplicação, foram realizadas três reuniões com o propósito de unificar essas diferentes aplicações, resultando em três versões do projeto. Essas reuniões foram cruciais para integrar e consolidar os diversos elementos desenvolvidos previamente, culminando na versão final da aplicação.
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
 > **Exemplo - GitHub Feature Branch Workflow**:
 >
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+> ![Exemplo de Wireframe](images/wireframe.png)
 
 # Projeto da Solução
 
 Com o objetivo de abordar a lacuna na organização, foi adotado um procedimento consistente na criação de um calendário dinâmico que permitisse a modificação e o planejamento otimizado das tarefas, levando em consideração critérios de prioridade e relevância. Além disso, uma ênfase significativa foi atribuída à concepção de uma interface que primasse pela simplicidade e intuitividade, garantindo ao usuário uma experiência desprovida de complicações durante a utilização do website.
-
-## Tecnologias Utilizadas
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
 
 ## Arquitetura da solução
 
@@ -277,44 +234,26 @@ Com o objetivo de abordar a falta na organização, foi adotado um procedimento 
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
-
+> O objetivo principal da aplicação é proporcionar ao usuário a capacidade de inserir todas as suas tarefas no calendário, permitindo um planejamento mais eficiente de seus dias. Além disso, o usuário poderá definir a ordem de prioridade dessas tarefas, garantindo que possa concentrar-se primeiro nas atividades mais importantes. A aplicação alcançará sua finalidade quando o usuário puder utilizar essas funcionalidades para otimizar sua gestão de tempo e concentrar-se nas tarefas que requerem maior atenção e urgência.
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para aprimorar o texto, seguem os itens enumerados com melhorias:
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+1. Projeto Funcional:
+   - Foi implementada uma funcionalidade em que uma pequena janela se abre ao clicar em "adicionar tarefas", proporcionando uma experiência mais intuitiva e simplificada para o usuário.
 
+2. Adição de Tarefas no Calendário:
+   - Agora, ao adicionar uma tarefa, ela é automaticamente exibida no calendário, permitindo uma visualização imediata e organizada das atividades agendadas.
+
+3. Alteração de Prioridade e Cor das Tarefas:
+   - Em uma aba adjacente, foi incorporada a possibilidade de alterar a ordem de prioridade das tarefas, refletindo diretamente na sua cor correspondente. Dessa forma, o usuário pode facilmente ajustar a importância das atividades e visualizá-las de acordo com as suas prioridades atualizadas.
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+> O website em questão apresenta a capacidade de adicionar tarefas, permitindo ao usuário realizar modificações na duração e descrição das atividades de forma flexível.
 
 
 # Referências
+> CARNEIRO, Rommel Vieira. Trabalho Interdisciplinar: front end. In: Universidade XYZ. Curso de Ciência da Computação, CC1234 - Front-end Development, 1º semestre/2023.
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> CANVAS. Plataforma de aprendizagem online. Disponível em: https://www.canvas.com. Acesso em: 2 jul. 2023.

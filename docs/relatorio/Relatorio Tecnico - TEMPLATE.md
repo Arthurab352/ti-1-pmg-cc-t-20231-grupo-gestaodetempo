@@ -76,15 +76,10 @@ O objetivo geral do nosso trabalho é desenvolver um software de gestão de temp
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 Trabalhar com uma aplicação de gestão de tempo e produtividade é importante, porque muita gente acaba sofrendo pra organizar as suas tarefas e projetos de uma maneira produtiva. Além disso, a gente sabe que gerenciar o tempo é crucial pra ter sucesso tanto na vida pessoal quanto profissional, e uma aplicação que ajuda nisso pode mudar a sua vida pra melhor.
 Os objetivos que a gente escolheu pra essa aplicação são pra garantir que ela seja fácil de usar e funcione de verdade. A interface tem que ser amigável e intuitiva, do contrario ninguém vai querer usar a plataforma.
 Outro recurso bem importante é a funcionalidade de planejamento de tempo. Com ela, os usuários vão poder gerenciar as tarefas e projetos de forma eficiente, priorizando o que é mais importante e evitando ficar perder o controle do dia a dia.
 Enfim, a nossa ideia é criar uma aplicação de gestão de tempo e produtividade que seja fácil de usar, intuitiva e eficiente, pra ajudar o usuario a ser mais produtivo e ter mais qualidade de vida.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -95,16 +90,12 @@ Fundamentais: Usuarios;
 Importantes: Instituições de ensino, empresas onde os usuarios trabalham;
 Influenciadores: Amigos, Professor/Chefe, Familia.
 > 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+
 # Especificações do Projeto
 
 Nesta parte vamos abordar a especificação do projeto. Para isso, utilizaremos uma combinação de técnicas e ferramentas, incluindo entrevistas com usuários, criação de personas e prototipagem. Ao final dessa parte, teremos uma especificação clara e detalhada do projeto, que servirá como base para o desenvolvimento da aplicação
 
 ## Personas, Empatia e Proposta de Valor
-
 
 ![image](https://user-images.githubusercontent.com/91708847/232348832-a9968412-c815-4b23-b7bc-de629483ee66.png)
 ![WhatsApp Image 2023-04-16 at 20 16 18](https://user-images.githubusercontent.com/91708847/232348856-77decf46-b40c-483a-8e24-7d28f0788c58.jpeg)
@@ -184,7 +175,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-
+No âmbito do projeto, todos os membros colaboraram de forma conjunta, participando de reuniões semanais. Durante essas reuniões, Arthur Leite assumiu a responsabilidade pela elaboração inicial da página principal, enquanto Cezar, Gustavo e Arthur se encarregaram da implementação das funcionalidades.
 ## Ferramentas
 
 ......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
@@ -192,8 +183,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  (https://miro.com/app/board/uXjVMYD9yTA=/) | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Repositório de código | GitHub |[ https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-t-20231-grupo-gestaodetempo/edit/master/docs/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md) | 
+|Hospedagem do site | Replit | http://sabiotempo.glitchx8.repl.co/
 |Protótipo Interativo |Figma | https://figma.com/XXXXXXX | 
 
 >
@@ -202,10 +193,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > As ferramentas empregadas no projeto são:
 > 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
+> - Editor de código - Visual Studio Code.
+> - Ferramentas de comunicação- Discord.
+> - Ferramentas de diagramação - Miro.
+> - Plataforma de hospedagem - Replit.com
 > 
 > O editor de código foi escolhido porque ele possui uma integração com o
 > sistema de versão. As ferramentas de comunicação utilizadas possuem
@@ -213,11 +204,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > diagramas utilizamos essa ferramenta por melhor captar as
 > necessidades da nossa solução.
 > 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+
 
 ## Controle de Versão
 
@@ -254,12 +241,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > ![Exemplo de Wireframe](images/Github-Workflow.png)
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
-
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Com o objetivo de abordar a lacuna na organização, foi adotado um procedimento consistente na criação de um calendário dinâmico que permitisse a modificação e o planejamento otimizado das tarefas, levando em consideração critérios de prioridade e relevância. Além disso, uma ênfase significativa foi atribuída à concepção de uma interface que primasse pela simplicidade e intuitividade, garantindo ao usuário uma experiência desprovida de complicações durante a utilização do website.
 
 ## Tecnologias Utilizadas
 
@@ -280,10 +264,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+Com o objetivo de abordar a falta na organização, foi adotado um procedimento consistente na criação de um calendário dinâmico que permitisse a modificação e o planejamento otimizado das tarefas, levando em consideração critérios de prioridade e relevância. Além disso, uma ênfase significativa foi atribuída à  uma interface que priorizasse a simplicidade e intuitividade, garantindo ao usuário uma experiência desprovida de complicações durante a utilização do website.
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+# Tecnologias utilizadas
+>O projeto foi integralmente desenvolvido por meio da estilização e programação utilizando as linguagens HTML, JavaScript e CSS. Além disso, a plataforma GitHub foi empregada para o controle de versões, proporcionando um ambiente adequado para o gerenciamento das alterações realizadas. Para disponibilizar o código na web, optamos por utilizar a plataforma Replit, que atua como um servidor para que os usuários possam acessar nosso site. 
+> 
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
@@ -312,15 +297,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 

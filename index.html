@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8' />
+  <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js'></script>
+  <script src="./script.js"></script>
+  
+  
+</head>
+
+<body>
+  <div id="header">
+    <div class="fixed-corner">
+      <div class="hourglass"></div>
+    </div> Sábio-Tempo 
+  </div>
+  <div class="container">
+    <h1>Eventos</h1>
+    <div class="searchbox">
+      <input
+        name="search"
+        id="searchbar"
+        type="text"
+        class="search-text"
+        onkeyup="searchEventos()"
+        placeholder="Pesquisar evento..."
+      />
+    </div>
+    <div class="event-container">
+      <div id="eventBox" class="produtos3"></div>
+    </div>
+  </div>
+  
+  <div id='calendar'>
+    <button id='btnAddEvent'>Adicionar Evento</button>
+    <dialog class="dialog">
+      <button class="botao-fechar">X</button>
+      <div class="container">
+        <input type="text" class="form-control" placeholder="Adicione o título" aria-label="Adicione o título"
+          id="titulo2">
+      </div>
+      <div class="container" id="evento">
+        <h4>Inicio</h4>
+        <input type="date" class="form-control" id="data">
+      </div>
+      <div class="container">
+        <h4>Descrição</h4>
+        <textarea class="form-control" id="Tarefas"></textarea>
+      </div>
+      <div class="container">
+        <h4>Fim</h4>
+        <input class="form-control" type="date" id="time">
+      </div>
+      <button class="botao-salvar" id="salvar" onclick="salvarDados()">Salvar</button>
+    </dialog>
+  </div>
+</body>
+
+</html>

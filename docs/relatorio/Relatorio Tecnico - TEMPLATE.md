@@ -213,7 +213,7 @@ No âmbito do projeto, todos os membros colaboraram de forma conjunta, participa
 
 > **Exemplo - GitHub Feature Branch Workflow**:
 >
-> ![Exemplo de Wireframe](images/wireframe.png)
+> docs/relatorio/images/wireframe arquitetura.png
 
 # Projeto da Solução
 
